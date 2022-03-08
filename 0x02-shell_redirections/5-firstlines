@@ -1,0 +1,6 @@
+#!/bin/bash
+head /etc/passwd
+Peter Sunday@Gokada-L00578 MINGW64 ~/alx-system_engineering-devops/0x02-shell_redirections (main)
+chmod u+x 5-firstlines
+
+
